@@ -2,6 +2,6 @@ class task
 {
 	public static void main(String [] args)
 	{
-		System.out.print("Hello DevOps");
+		System.out.print("Hello world");
 	}
 }
